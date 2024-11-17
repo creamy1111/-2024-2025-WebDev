@@ -1,0 +1,17 @@
+html {
+	padding-bottom: 4em;
+}
+
+body {
+	font-family: sans-serif;
+	line-height: 1.5em;
+	max-width: 40em;
+	padding: 0 2%;
+	margin: auto;
+	background-color: #eeeeec;
+	color: #2e3436;
+}
+
+#first {
+	font-size: 0.5em;
+}
